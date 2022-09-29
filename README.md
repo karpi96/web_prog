@@ -1,2 +1,2 @@
 # web_prog
-skolica
+Ovde su vam zadaci koje smo radili u skoli. 
