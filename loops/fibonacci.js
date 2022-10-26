@@ -12,3 +12,4 @@ for(let i = 1; i<=length; i++){ //generisemo brojevem od 1 do unetog broja
     n1 = n2; 
     n2 = next; //pomerimo brojeve za jedno mesto
 }
+

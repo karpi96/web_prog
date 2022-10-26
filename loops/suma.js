@@ -8,3 +8,4 @@ for(let i = 1; i<=length; i++){//generisemo brojeve od 1 do unetog broja
 }
 
 console.log(sum);//ispisemo sumu
+
