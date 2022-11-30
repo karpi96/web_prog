@@ -1,3 +1,7 @@
+//Napravi 2d map objekat uz pomoc konstruktora
+//Treba da ima dva atributa, koordinate x i y
+//Treba da ima 5 funkcija: idi gore,dole,levo,desno i ispisi koordinate
+
 function Map(){
     this.x = 0;
     this.y = 0;

@@ -1,3 +1,8 @@
+//Napravi kalkulator sa obicnom {..} sintaksom i sa konstruktorom
+//treba da sadrzi dva broja
+//Treba da sadrzi tri metode: ucitaj brojeve uz pomoc promopt-a, 
+//sabiraj dve ucitane vrednost i vrati rezultat, i pomnozi vrednosti i vrati rezultat
+
 let calculator1 = {
 
     a: 0,

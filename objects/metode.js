@@ -1,3 +1,4 @@
+//metode su funkcije koje se nalaze u objektu
 let user = {
     name: "Roki",
     email: "roki@gmail.com",
@@ -13,14 +14,19 @@ let user = {
     }
 }
 
+//mozemo da ga pozovemo na sledeci nacin
+user.sayHi();
 
 
-
+//kad u metodi hocemo da koristimo promenljive koje se nalaze u samom objektu moramo da koristimo kljucnu rec "this"
 let user1 = {
     name: "Roki",
     email: "roki@gmail.com",
 
-    sayHi1: function(someone){
+    sayHiTo: function(someone){
         alert(this.name + " says hello to" + someone);
     }
 }
+
+
+user.sayHiTo("Rambo");
